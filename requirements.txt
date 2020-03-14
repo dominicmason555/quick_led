@@ -1,0 +1,3 @@
+PySide2
+cx_freeze
+requests
